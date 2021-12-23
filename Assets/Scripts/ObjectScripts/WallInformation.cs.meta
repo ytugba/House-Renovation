@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9430acf569066b4449f6bd179a8365fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crackPrefab: {fileID: 4710414172406351422, guid: 4f05f8aa3643a1e4f81ed75a8e4ea4c5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

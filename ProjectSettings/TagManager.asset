@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - trashCan
+  - Tablet
+  - GameManager
+  - Dirt
+  - Wall
+  - UnsaleableObjects
+  - Crack
+  - Window
+  - PlasteredCrack
+  - FlooringBox
+  - Bucket
+  - Garbage
+  - Furniture
+  - Floor
+  - PlasterBucket
+  - Room
+  - DeformationArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerManipulationLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Notifications
+    uniqueID: 2145959349
+    locked: 0
+  - name: Tablet
+    uniqueID: 3844677119
+    locked: 0

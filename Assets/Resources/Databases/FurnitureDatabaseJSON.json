@@ -1,0 +1,97 @@
+{
+  "Furnitures": [
+    {
+      "FurnitureId": 1,
+      "Title": "Modern Bed",
+      "Description": "A modern, stylish bed.",
+      "IconPath": "Modern Bed",
+      "PrefabPath": "Modern Bed",
+      "Category": "Bedroom",
+      "Price":  300
+    },
+    {
+      "FurnitureId": 2,
+      "Title": "Traditional Bed",
+      "Description": "A classic, traditional bed.",
+      "IconPath": "Traditional Bed",
+      "PrefabPath": "Traditional Bed",
+      "Category": "Bedroom",
+      "Price": 250
+    },
+    {
+      "FurnitureId": 3,
+      "Title": "Bookshelf",
+      "Description": "Reading has never been better.",
+      "IconPath": "Bookshelf",
+      "PrefabPath": "Bookshelf",
+      "Category": "Shelves",
+      "Price": 175
+    },
+    {
+      "FurnitureId": 4,
+      "Title": "Family Size Cabinet",
+      "Description": "Inside is bigger than outside.",
+      "IconPath": "Family Size Cabinet",
+      "PrefabPath": "Family Size Cabinet",
+      "Category": "Bedroom",
+      "Price": 300
+    },
+    {
+      "FurnitureId": 5,
+      "Title": "Chair",
+      "Description": "Just like a sofa.",
+      "IconPath": "Chair",
+      "PrefabPath": "Chair",
+      "Category": "Kitchen",
+      "Price": 40
+    },
+    {
+      "FurnitureId": 6,
+      "Title": "Shower",
+      "Description": "Best place for composing",
+      "IconPath": "Shower",
+      "PrefabPath": "Shower",
+      "Category": "Bathroom",
+      "Price": 180
+    },
+    {
+      "FurnitureId": 7,
+      "Title": "Sofa",
+      "Description": "Softy and comfy",
+      "IconPath": "Sofa",
+      "PrefabPath": "Sofa",
+      "Category": "Living Room",
+      "Price": 200
+    },
+    {
+      "FurnitureId": 8,
+      "Title": "Table",
+      "Description": "For the love of Camelot",
+      "IconPath": "Table",
+      "PrefabPath": "Table",
+      "Category": "Kitchen",
+      "Price": 160
+    },
+    {
+      "FurnitureId": 9,
+      "Title": "TV Table",
+      "Description": "Elegant and cool",
+      "Iconpath": "TV Table",
+      "PrefabPath": "TV Table",
+      "Category": "Living Room",
+      "Price": 110
+    },
+    {
+      "FurnitureId": 10,
+      "Title": "Washbasin",
+      "Description": "Keep it clean",
+      "IconPath": "Washbasin",
+      "PrefabPath": "Washbasin",
+      "Category": "Bathroom",
+      "Price": 220
+    }
+  ]
+}
+
+
+

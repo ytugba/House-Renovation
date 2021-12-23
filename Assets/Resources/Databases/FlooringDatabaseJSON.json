@@ -1,0 +1,35 @@
+{
+  "Floorings": [
+    {
+      "FlooringId": 1,
+      "MaterialPath": "MarbleBlue",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "MarbleBlue"
+    },
+    {
+      "FlooringId": 2,
+      "MaterialPath": "MarbleGray",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "MarbleGray"
+    },
+    {
+      "FlooringId": 3,
+      "MaterialPath": "Rubber",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "Rubber"
+    },
+    {
+      "FlooringId": 4,
+      "MaterialPath": "Wood",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "Wood"
+    }
+  ]
+}
+
+
+

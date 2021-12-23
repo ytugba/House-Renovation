@@ -1,0 +1,49 @@
+{
+  "Paintings": [
+    {
+      "PaintingId": 1,
+      "MaterialPath": "Brick",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "Brick"
+    },
+    {
+      "PaintingId": 2,
+      "MaterialPath": "Light Wood",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "Light Wood"
+    },
+    {
+      "PaintingId": 3,
+      "MaterialPath": "RoughGray",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "RoughGray"
+    },
+    {
+      "PaintingId": 4,
+      "MaterialPath": "Siding",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "Siding"
+    },
+    {
+      "PaintingId": 5,
+      "MaterialPath": "Wood",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "Wood"
+    },
+    {
+      "PaintingId": 6,
+      "MaterialPath": "Plaster Bucket",
+      "Price": 50,
+      "Amount": 10,
+      "IconPath": "Plaster Bucket"
+    }
+  ]
+}
+
+
+

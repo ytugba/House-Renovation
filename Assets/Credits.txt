@@ -1,0 +1,27 @@
+Images/Icons/garbageIcon.png => Icons made by Roundicons from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/okay.png => Icons made by Pixelmeetup from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/rotateCW.png, Images/Icons/rotateCCW.png, Images/Icons/engineering.png => Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/arrow1.png => Icons made by Dave Gandy from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/mission.png =>Icons made by Icon Pond from www.flaticon.com is licensed by Creative Commons BY 3.0 CC 3.0 BY
+Images/Icons/shop.png =>Icons made by monkik from www.flaticon.com is licensed by Creative Commons BY 3.0 CC 3.0 BY
+Images/Icons/house.png =>Icons made by Vectors Market from www.flaticon.com Creative Commons BY 3.0 CC 3.0 BY
+Images/background.png => photo by Stephan Seeber in Pexels
+Images/Icons/homeButton.png =>Icons made by bqlqn from https://www.flaticon.com/ is licensed by CC 3.0 BY
+Images/Icons/tabletButton.png =>Icons made by Freepik https://www.flaticon.com/  CC 3.0 BY
+Images/Icons/slot.png => Icons made by Dave Gandy from https://www.flaticon.com/ is licensed byCC 3.0 BY
+Images/Icons/cancel.png => Icons made by Alfredo Hernandez from ttps://www.flaticon.com/ is licensed by CC 3.0 BY
+Images/Icons/sell.png => Icons made by Smashicons from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/paint.png => <div>Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/floor.png => <div>Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/offer.png => <div>Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/agent.png => <div> Icons made by https://www.trzcacak.rs/imgm/hbhxibi_real-estate-agent-real-estate-agent-png/
+Images/Icons/estate.png => Image by Devanath https://pixabay.com/
+Images/Icons/plaster.png => <div>Icons made by photo3idea_studio from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/start.png => <div>Icons made by Vaadin from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/exit.png => <div>Icons made by Smashicons from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/settings.png => <div>Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/box.png => <div>Icons made by Smashicons from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/bucket.png => <div>Icons made by Smashicons from www.flaticon.com is licensed by CC 3.0 BY
+Images/Icons/parquet.png => <div>Icons made by Smashicons from www.flaticon.com is licensed by CC 3.0 BY
+Paint Roller by Bassuchka https://www.turbosquid.com
+Broom by odio https://www.turbosquid.com
